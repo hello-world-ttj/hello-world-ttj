@@ -50,4 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-world-ttj&show_icons=true&locale=en" alt="hello-world-ttj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-world-ttj&" alt="hello-world-ttj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-world-ttj&theme=material" alt="hello-world-ttj" /></p>
