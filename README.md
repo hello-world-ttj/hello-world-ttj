@@ -48,6 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-world-ttj&show_icons=true&locale=en&layout=compact" alt="hello-world-ttj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-world-ttj&show_icons=true&locale=en" alt="hello-world-ttj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-world-ttj&show_icons=true&locale=en&theme=material" alt="hello-world-ttj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-world-ttj&theme=material" alt="hello-world-ttj" /></p>
