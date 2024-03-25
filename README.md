@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="CODING">
+<img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="CODING">
 <h1 align="center">Hi 👋, I'm Tijo T Joseph</h1>
 <h3 align="center"><Developer who LOVES to CODE /></h3>
 
