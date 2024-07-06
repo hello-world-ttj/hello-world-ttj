@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **acuteangle.io**
 
-- 👨‍💻 All of my projects are available at [https://tijotjoseph.netlify.app/](tijotjoseph.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tijotjoseph.in/](tijotjoseph.in)
 
 - 💬 Ask me about **MEAN, MERN**
 
