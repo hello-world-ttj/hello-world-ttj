@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tijo T Joseph</h1>
 <h3 align="center"><Developer who LOVES to CODE /></h3>
 
-- 🔭 I’m currently working on **[https://www.xyvin.com/](Xyvin Tech)**
+- 🔭 I’m currently working on **Xyvin Tech**
 
 - 👨‍💻 All of my projects are available at [https://tijotjoseph.in/](tijotjoseph.in)
 
