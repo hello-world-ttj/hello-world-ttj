@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-world-ttj&layout=compact&theme=radical)
-![Tijo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-world-ttj&show_icons=true&theme=radical)
+![Tijo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-world-ttj&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
